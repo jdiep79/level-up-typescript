@@ -1,0 +1,19 @@
+{
+  "name": "level-up-typescript",
+  "version": "1.0.0",
+  "description": "level-up-typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdiep79/level-up-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdiep79/level-up-typescript/issues"
+  },
+  "homepage": "https://github.com/jdiep79/level-up-typescript#readme"
+}
